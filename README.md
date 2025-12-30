@@ -69,7 +69,7 @@ seaborn
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/trader-sentiment-analysis.git
+git clone https://github.com/jayavarsan-r/trader-sentiment-analysis.git
 cd trader-sentiment-analysis
 ```
 
