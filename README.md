@@ -6,6 +6,10 @@
 
 > An empirical analysis investigating how the Bitcoin Fear & Greed Index influences trader profitability, risk-taking patterns, and directional bias on Hyperliquid, a decentralized derivatives exchange.
 
+
+## Google collab link 
+https://colab.research.google.com/drive/1l89HkYiDF7MbWWFfHLiX9ZU0CE4zseFb?usp=sharing
+
 ## 📊 Project Overview
 
 Cryptocurrency markets are driven by both fundamental factors and psychological sentiment. This project analyzes **149,000+ real trades** from Hyperliquid to understand how market sentiment impacts trading outcomes, providing actionable insights for risk management and strategy optimization.
